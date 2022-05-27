@@ -1,0 +1,4 @@
+--everything auto updates and will update on this github
+--this is the loader to both auto updating scripts so this will be all you need
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/R3v0ked/Scripts/main/Script%20loader"))()
