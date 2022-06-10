@@ -1,6 +1,6 @@
 local Flux = loadstring(game:HttpGet"https://raw.githubusercontent.com/dawid-scripts/UI-Libs/main/fluxlib.txt")()
 
-local win = Flux:Window("R3v0keds script", "Universal", Color3.fromRGB(255, 110, 48), Enum.KeyCode.LeftControl)
+local win = Flux:Window("R3v0keds script", "lt2 script hubs", Color3.fromRGB(255, 110, 48), Enum.KeyCode.LeftControl)
 local tab = win:Tab("Script Hubs", "http://www.roblox.com/asset/?id=6023426915")
 
 tab:Button("money dupe", "lt2 script", function()
