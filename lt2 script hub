@@ -24,9 +24,10 @@ tab:Button("doodle", "lt2 script", function()
     loadstring(game:HttpGet('https://pastebin.com/raw/m7v551CD'))()
 end)
 tab:Button("blood", "lt2 script", function()
-    loadstring(game:HttpGet('https://pastebin.com/raw/m7v551CD'))()
+    getgenv().Blood = "5bf053b81163"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/matrixoddy/blood/main/v17.19FREEdoNOTbuy2"))("Frosty is a retard LMAO")
 end)
 tab:Button("dupe", "lt2 script", function()
-    loadstring(game:HttpGet('https://pastebin.com/raw/m7v551CD'))()
+    loadstring(game:HttpGet'https://raw.githubusercontent.com/0x37Dev/Cool-Solo-Dupe-Thing/main/script.lua')()
 end)
 
